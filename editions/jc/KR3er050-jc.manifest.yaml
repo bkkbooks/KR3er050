@@ -1,0 +1,1202 @@
+canonical_identifier: bkk:krp/KR3er050/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3er050/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 醫學指歸
+  identifiers:
+    krp: KR3er050
+  tags:
+    kr-categories: KR3er
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3er050.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 1, filename: KR3er050_001-jc.yaml, hash: 'sha256:ce05e941575debcb5ef3b9820f8dd5e2a5891f121ccb22d1a73978a7f63c7ee8'}
+  - {seq: 2, filename: KR3er050_002-jc.yaml, hash: 'sha256:59f388a7c0b76da35880aa16b1e3ce436707f04b03eabe18f056ee567ec614b4'}
+  - {seq: 3, filename: KR3er050_003-jc.yaml, hash: 'sha256:747703f8391dd978f202b63d71559bd422f3988171b7e6cd4058d5f87e4097b4'}
+  - {seq: 4, filename: KR3er050_004-jc.yaml, hash: 'sha256:d663cbd9651e40f485493411288c048336beebdd9e3eda55220b2a84ddfafc77'}
+  - {seq: 5, filename: KR3er050_005-jc.yaml, hash: 'sha256:9fe08428fe9568885b8ad2fb3727cc3901e05ebe022f517cc2ea5e181da35e48'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3er050_001-jc.markers.yaml, hash: 'sha256:2320068fd7404adef99a15b600deb1ce0586f17655192cea77a3db13f17caa8e'}
+  - {seq: 2, role: markers, filename: assets/KR3er050_002-jc.markers.yaml, hash: 'sha256:96d2df3a2ba3c810c77c8d77dcc944b557fe20c8933c36fd40b30582dc4016dc'}
+  - {seq: 3, role: markers, filename: assets/KR3er050_003-jc.markers.yaml, hash: 'sha256:643e16ac3d1cb8a3e23716f9dd9b8761d09d86ecb52cc15ef62449235cc71479'}
+  - {seq: 4, role: markers, filename: assets/KR3er050_004-jc.markers.yaml, hash: 'sha256:e2050981b7657612d9dc73800b1bddfd0a097126bcaa60aabfc5ae34cabc92aa'}
+  - {seq: 5, role: markers, filename: assets/KR3er050_005-jc.markers.yaml, hash: 'sha256:5dd59bf583bb469f37c678a1f91afd8b3a2db318cc5ea7f87853f7f74ed38444'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR3er050_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 889
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3er050_jc_000-d3.h1s1
+    span:
+    - front
+    - 889
+    - 2017
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3er050_jc_000-d4.h1s1
+    span:
+    - body
+    - 0
+    - 470
+  label: 自敘
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3er050_jc_NaN-d5.h1s1
+    span:
+    - body
+    - 0
+    - 495
+  label: 卷首
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3er050_jc_NaN-d5d4
+    span:
+    - body
+    - 8
+    - 82
+  label: 手太陰肺經圖
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3er050_jc_NaN-d5.d4d4
+    span:
+    - body
+    - 14
+    - 82
+  label: 肺臟圖
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3er050_jc_NaN-d5d5
+    span:
+    - body
+    - 82
+    - 138
+  label: 手陽明大腸經圖
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3er050_jc_NaN-d5.d5d4
+    span:
+    - body
+    - 89
+    - 138
+  label: 大腸腑圖
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3er050_jc_NaN-d5d6
+    span:
+    - body
+    - 138
+    - 180
+  label: 足陽明胃經圖
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3er050_jc_NaN-d5.d6d4
+    span:
+    - body
+    - 144
+    - 180
+  label: 胃腑圖
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3er050_jc_NaN-d5d7
+    span:
+    - body
+    - 180
+    - 207
+  label: 足太陰脾經圖
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3er050_jc_NaN-d5.d7d4
+    span:
+    - body
+    - 186
+    - 207
+  label: 脾臟圖
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3er050_jc_NaN-d5d8
+    span:
+    - body
+    - 207
+    - 243
+  label: 手少陰心經圖
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3er050_jc_NaN-d5.d8d4
+    span:
+    - body
+    - 213
+    - 243
+  label: 心臟圖
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3er050_jc_NaN-d5d9
+    span:
+    - body
+    - 243
+    - 300
+  label: 手太陽小腸經圖
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3er050_jc_NaN-d5.d9d4
+    span:
+    - body
+    - 250
+    - 300
+  label: 小腸腑圖
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3er050_jc_NaN-d5d10
+    span:
+    - body
+    - 300
+    - 353
+  label: 足太陽膀胱經圖
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3er050_jc_NaN-d5.d10d4
+    span:
+    - body
+    - 307
+    - 353
+  label: 膀胱腑圖
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3er050_jc_NaN-d5d11
+    span:
+    - body
+    - 353
+    - 390
+  label: 足少陰腎經圖
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3er050_jc_NaN-d5.d11d4
+    span:
+    - body
+    - 359
+    - 390
+  label: 腎臟圖
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3er050_jc_NaN-d5d12
+    span:
+    - body
+    - 390
+    - 429
+  label: 心包絡經圖
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3er050_jc_NaN-d5.d12d4
+    span:
+    - body
+    - 395
+    - 429
+  label: 心包絡腑圖
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3er050_jc_NaN-d5d13
+    span:
+    - body
+    - 429
+    - 437
+  label: 三焦經圖
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3er050_jc_NaN-d5.d13d4
+    span:
+    - body
+    - 433
+    - 437
+  label: 三焦腑圖
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3er050_jc_NaN-d5d14
+    span:
+    - body
+    - 437
+    - 466
+  label: 足少陽膽經圖
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3er050_jc_NaN-d5.d14d4
+    span:
+    - body
+    - 443
+    - 466
+  label: 膽腑圖
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3er050_jc_NaN-d5d15
+    span:
+    - body
+    - 466
+    - 495
+  label: 足厥陰肝經圖
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3er050_jc_NaN-d5.d15d4
+    span:
+    - body
+    - 472
+    - 495
+  label: 肝臟圖
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er050_jc_001-d6.h1s1
+    span:
+    - body
+    - 0
+    - 10912
+  label: 卷上
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3er050_jc_001-d6d2
+    span:
+    - body
+    - 2
+    - 2257
+  label: 肺經第一
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3er050_jc_001-d6.d2d6
+    span:
+    - body
+    - 238
+    - 551
+  label: 經絡解
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er050_jc_001-d6.d2d7
+    span:
+    - body
+    - 551
+    - 593
+  label: 肺經諸穴歌
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er050_jc_001-d6.d2d8
+    span:
+    - body
+    - 593
+    - 694
+  label: 分寸歌
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er050_jc_001-d6.d2d9
+    span:
+    - body
+    - 694
+    - 1047
+  label: 病證解
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er050_jc_001-d6.d2d10
+    span:
+    - body
+    - 1047
+    - 1168
+  label: 本草臟腑虛實標本用藥式
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er050_jc_001-d6.d2d11
+    span:
+    - body
+    - 1168
+    - 2257
+  label: 治法解
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er050_jc_001-d6d3
+    span:
+    - body
+    - 2257
+    - 4127
+  label: 大腸經第二
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3er050_jc_001-d6.d3d6
+    span:
+    - body
+    - 2482
+    - 2778
+  label: 經絡解
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er050_jc_001-d6.d3d7
+    span:
+    - body
+    - 2778
+    - 2851
+  label: 大腸經諸穴歌
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er050_jc_001-d6.d3d8
+    span:
+    - body
+    - 2851
+    - 3008
+  label: 分寸歌
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er050_jc_001-d6.d3d9
+    span:
+    - body
+    - 3008
+    - 3135
+  label: 病證解
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er050_jc_001-d6.d3d10
+    span:
+    - body
+    - 3135
+    - 3274
+  label: 本草臟腑虛實標本用藥式
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er050_jc_001-d6.d3d11
+    span:
+    - body
+    - 3274
+    - 4127
+  label: 治法解
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er050_jc_001-d6d4
+    span:
+    - body
+    - 4127
+    - 6522
+  label: 胃經第三
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3er050_jc_001-d6.d4d6
+    span:
+    - body
+    - 4513
+    - 5059
+  label: 經絡解
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er050_jc_001-d6.d4d7
+    span:
+    - body
+    - 5059
+    - 5189
+  label: 胃經諸穴歌
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er050_jc_001-d6.d4d8
+    span:
+    - body
+    - 5189
+    - 5570
+  label: 分寸歌
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er050_jc_001-d6.d4d9
+    span:
+    - body
+    - 5570
+    - 5837
+  label: 病證解
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er050_jc_001-d6.d4d10
+    span:
+    - body
+    - 5837
+    - 6025
+  label: 本草臟腑虛實標本用藥式
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er050_jc_001-d6.d4d11
+    span:
+    - body
+    - 6025
+    - 6522
+  label: 治法解
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er050_jc_001-d6d5
+    span:
+    - body
+    - 6522
+    - 8721
+  label: 脾經第四
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3er050_jc_001-d6.d5d6
+    span:
+    - body
+    - 6742
+    - 6995
+  label: 經絡解
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er050_jc_001-d6.d5d7
+    span:
+    - body
+    - 6995
+    - 7089
+  label: 脾經諸穴歌
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er050_jc_001-d6.d5d8
+    span:
+    - body
+    - 7089
+    - 7274
+  label: 分寸歌
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er050_jc_001-d6.d5d9
+    span:
+    - body
+    - 7274
+    - 7446
+  label: 病證解
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er050_jc_001-d6.d5d10
+    span:
+    - body
+    - 7446
+    - 7626
+  label: 本草臟腑虛實標本用藥式
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er050_jc_001-d6.d5d11
+    span:
+    - body
+    - 7626
+    - 8721
+  label: 治法解
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er050_jc_001-d6d6
+    span:
+    - body
+    - 8721
+    - 9444
+  label: 心經第五
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3er050_jc_001-d6.d6d6
+    span:
+    - body
+    - 8914
+    - 9170
+  label: 經絡解
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er050_jc_001-d6.d6d7
+    span:
+    - body
+    - 9170
+    - 9210
+  label: 心經諸穴歌
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er050_jc_001-d6.d6d8
+    span:
+    - body
+    - 9210
+    - 9283
+  label: 分寸歌
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er050_jc_001-d6.d6d9
+    span:
+    - body
+    - 9283
+    - 9444
+  label: 病證解
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er050_jc_001-d6d7
+    span:
+    - body
+    - 9444
+    - 10912
+  label: 小腸經第六
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3er050_jc_001-d6.d7d6
+    span:
+    - body
+    - 9656
+    - 9925
+  label: 經絡解
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er050_jc_001-d6.d7d7
+    span:
+    - body
+    - 9925
+    - 10007
+  label: 小腸經諸穴歌
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er050_jc_001-d6.d7d8
+    span:
+    - body
+    - 10007
+    - 10150
+  label: 分寸歌
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er050_jc_001-d6.d7d9
+    span:
+    - body
+    - 10150
+    - 10238
+  label: 病證解
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er050_jc_001-d6.d7d10
+    span:
+    - body
+    - 10238
+    - 10372
+  label: 本草臟腑虛實標本用藥式
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er050_jc_001-d6.d7d11
+    span:
+    - body
+    - 10372
+    - 10912
+  label: 治法解
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3er050_jc_003-d7.h1s1
+    span:
+    - body
+    - 0
+    - 12882
+  label: 卷下
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3er050_jc_003-d7d2
+    span:
+    - body
+    - 2
+    - 2094
+  label: 膀胱經第七
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3er050_jc_003-d7.d2d6
+    span:
+    - body
+    - 255
+    - 659
+  label: 經絡解
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3er050_jc_003-d7.d2d7
+    span:
+    - body
+    - 659
+    - 869
+  label: 膀胱經諸穴歌
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3er050_jc_003-d7.d2d8
+    span:
+    - body
+    - 869
+    - 1308
+  label: 分寸歌
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3er050_jc_003-d7.d2d9
+    span:
+    - body
+    - 1308
+    - 1479
+  label: 病證解
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3er050_jc_003-d7.d2d10
+    span:
+    - body
+    - 1479
+    - 1586
+  label: 本草臟腑虛實標本用藥式
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3er050_jc_003-d7.d2d11
+    span:
+    - body
+    - 1586
+    - 2094
+  label: 治法解
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3er050_jc_003-d7d3
+    span:
+    - body
+    - 2094
+    - 5092
+  label: 腎經第八
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3er050_jc_003-d7.d3d6
+    span:
+    - body
+    - 2357
+    - 2606
+  label: 經絡解
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3er050_jc_003-d7.d3d7
+    span:
+    - body
+    - 2606
+    - 2698
+  label: 腎經諸穴歌
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3er050_jc_003-d7.d3d8
+    span:
+    - body
+    - 2698
+    - 2897
+  label: 分寸歌
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3er050_jc_003-d7.d3d9
+    span:
+    - body
+    - 2897
+    - 3212
+  label: 病證解
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3er050_jc_003-d7.d3d10
+    span:
+    - body
+    - 3212
+    - 3536
+  label: 本草臟腑虛實標本用藥式
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3er050_jc_003-d7.d3d11
+    span:
+    - body
+    - 3536
+    - 5092
+  label: 治法解
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3er050_jc_003-d7d4
+    span:
+    - body
+    - 5092
+    - 6748
+  label: 心包絡經第九
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3er050_jc_003-d7.d4d6
+    span:
+    - body
+    - 5294
+    - 5464
+  label: 經絡解
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3er050_jc_003-d7.d4d7
+    span:
+    - body
+    - 5464
+    - 5518
+  label: 心包絡經諸穴歌
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3er050_jc_003-d7.d4d8
+    span:
+    - body
+    - 5518
+    - 5591
+  label: 分寸歌
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3er050_jc_003-d7.d4d9
+    span:
+    - body
+    - 5591
+    - 5795
+  label: 病證解
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3er050_jc_003-d7.d4d10
+    span:
+    - body
+    - 5795
+    - 5951
+  label: 本草臟腑虛實標本用藥式
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3er050_jc_003-d7.d4d11
+    span:
+    - body
+    - 5951
+    - 6748
+  label: 治法解
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3er050_jc_003-d7d5
+    span:
+    - body
+    - 6748
+    - 8682
+  label: 三焦經第十
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3er050_jc_003-d7.d5d6
+    span:
+    - body
+    - 6977
+    - 7240
+  label: 經絡解
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3er050_jc_003-d7.d5d7
+    span:
+    - body
+    - 7240
+    - 7331
+  label: 三焦經諸穴歌
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3er050_jc_003-d7.d5d8
+    span:
+    - body
+    - 7331
+    - 7516
+  label: 分寸歌
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3er050_jc_003-d7.d5d9
+    span:
+    - body
+    - 7516
+    - 7589
+  label: 病證解
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3er050_jc_003-d7.d5d10
+    span:
+    - body
+    - 7589
+    - 8035
+  label: 本草臟腑虛實標本用藥式
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3er050_jc_003-d7.d5d11
+    span:
+    - body
+    - 8035
+    - 8682
+  label: 治法解
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3er050_jc_003-d7d6
+    span:
+    - body
+    - 8682
+    - 10749
+  label: 膽經第十一
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3er050_jc_003-d7.d6d6
+    span:
+    - body
+    - 9034
+    - 9498
+  label: 經絡解
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3er050_jc_003-d7.d6d7
+    span:
+    - body
+    - 9498
+    - 9645
+  label: 膽經諸穴歌
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3er050_jc_003-d7.d6d8
+    span:
+    - body
+    - 9645
+    - 10082
+  label: 分寸歌
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3er050_jc_003-d7.d6d9
+    span:
+    - body
+    - 10082
+    - 10222
+  label: 病證解
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3er050_jc_003-d7.d6d10
+    span:
+    - body
+    - 10222
+    - 10340
+  label: 本草臟腑虛實標本用藥式
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3er050_jc_003-d7.d6d11
+    span:
+    - body
+    - 10340
+    - 10749
+  label: 治法解
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3er050_jc_003-d7d7
+    span:
+    - body
+    - 10749
+    - 12882
+  label: 肝經第十二
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3er050_jc_003-d7.d7d6
+    span:
+    - body
+    - 10974
+    - 11187
+  label: 經絡解
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3er050_jc_003-d7.d7d7
+    span:
+    - body
+    - 11187
+    - 11244
+  label: 肝經諸穴歌
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3er050_jc_003-d7.d7d8
+    span:
+    - body
+    - 11244
+    - 11387
+  label: 分寸歌
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3er050_jc_003-d7.d7d9
+    span:
+    - body
+    - 11387
+    - 11462
+  label: 病證解
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3er050_jc_003-d7.d7d10
+    span:
+    - body
+    - 11462
+    - 11741
+  label: 本草臟腑虛實標本用藥式
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3er050_jc_003-d7.d7d11
+    span:
+    - body
+    - 11741
+    - 12882
+  label: 治法解
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3er050_jc_000-d8.h1s1
+    span:
+    - body
+    - 0
+    - 1251
+  label: 附
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3er050_jc_000-d8d2
+    span:
+    - body
+    - 1
+    - 181
+  label: 奇經八脈歌
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3er050_jc_000-d8d3
+    span:
+    - body
+    - 181
+    - 1210
+  label: 穴同名異類
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3er050_jc_000-d8d4
+    span:
+    - body
+    - 1210
+    - 1251
+  label: 名同穴異類
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3er050_jc_000-d9.h1s1
+    span:
+    - body
+    - 1251
+    - 1669
+  label: 跋
+  type: section
+  level: 1
+hash: sha256:dfb055be27b0d8a260d6bad30403e7edef3cd3315c90ec8e65d0eb9037c51f99
